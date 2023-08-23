@@ -5,7 +5,8 @@
 
 - ⚡ Fun fact **i am a good person**
 
-- 🌱 I’m currently learning **i am currently learning C#  **
+- 🌱 I’m currently learning **C#**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
