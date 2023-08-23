@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **endercankaya75@gmail.com**
 
-- ⚡ Fun fact **i am good person**
+- ⚡ Fun fact **i am a good person**
+
+- 🌱 I’m currently learning **i am currently learning C#  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
